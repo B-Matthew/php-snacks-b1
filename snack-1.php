@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>php-snacks-b1</title>
+    <title>php-snacks-1</title>
     <style>
       body {
         background-color: lightblue;
